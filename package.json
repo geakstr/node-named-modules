@@ -1,0 +1,23 @@
+{
+  "name": "node-named-modules",
+  "description": "Allows you to specify aliases for your module paths",
+  "version": "1.0.0",
+  "homepage": "https://github.com/geakstr/node-named-modules",
+  "author": {
+    "name": "Dmitry Kharitonov",
+    "email": "geakstr@me.com",
+    "url": "http://dkharitonov.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geakstr/node-named-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geakstr/node-named-modules/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/geakstr/node-named-modules/blob/master/LICENSE"
+  }],
+  "main": "index.js"
+}
