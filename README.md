@@ -8,7 +8,7 @@
 
 Install:
 ```shell
-npm install node-named-modules --save-dev
+npm install node-named-modules --save
 ```
 
 In ```package.json``` specify paths to your modules in ```namedModules``` section:
